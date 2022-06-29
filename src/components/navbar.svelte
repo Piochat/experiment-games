@@ -5,9 +5,11 @@
 			src="https://static.wikia.nocookie.net/logopedia/images/f/f6/PCEngine_logo.svg"
 			alt="logaso"
 		/>
-		<div class="container">
-			<a class="text-white text-2xl" href="/">Darling</a>
-			<a class="text-white text-2xl" href="/">Piso</a>
+		<div class="container m-1">
+			<a class="text-white text-2xl px-1 mx-1 hover:text-gray-300" href="/">Darling</a>
+			<a class="text-white text-2xl px-1 mx-1 hover:text-gray-300" href="/parents"
+				>Companies</a
+			>
 		</div>
 	</div>
 </nav>
